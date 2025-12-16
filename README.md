@@ -1,4 +1,4 @@
 # RISE RP014: Optimizing Llama.cpp and GGML for RVV
 
-This repo contains reading material and presentations for the collaboration
-between 10xE and RISE for RP-014.
+This repo contains reading material and presentations of the work 10xE
+did on RISE RFP RP-014
